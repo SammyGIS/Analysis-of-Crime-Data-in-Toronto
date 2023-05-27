@@ -1,4 +1,4 @@
-# Analysis of Crime Data in Toronto
+# Spatial Analysis of Crime Data in Toronto
 This repository contains an analysis of crime data in Toronto, focusing on patterns of crime and potential factors influencing crime locations. The analysis involves accessing the crime dataset from the Toronto Public Service Public Safety Data Portal and utilizing spatial analysis techniques.
 
 ## Part A: Cluster Analysis
@@ -23,11 +23,11 @@ The analysis aims to provide insights into the spatial patterns of crimes in Tor
 
 ## Aknowlegement
 The analysis and methodology in this repository draw inspiration from the following sources:
-[Rey, S. J., & Anselin, L. (2021). Point pattern analysis. Geographic Data Science, Chapter 8]-https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html
-[Darribas, I. (n.d.). Geovisualization with PySAL. Geographic Data Science, Lab 8.]-https://darribas.org/gds_course/content/bH/lab_H.html
-[PySAL Developers. (n.d.). Moran’s I visualization. PySAL]-https://pysal.org/notebooks/viz/splot/esda_morans_viz.html
-[City of Toronto. (2016). Neighbourhood profiles. Open Data Catalogue]-https://open.toronto.ca/dataset/neighbourhood-profiles/
-[ArcGIS Hub. (n.d.). Toronto neighbourhoods. ArcGIS Online]-https://edu.hub.arcgis.com/datasets/edu::toronto-neighbourhoods-1/explore?location=43.717982%2C-79.377254%2C11.64
-[City of Toronto. (n.d.). Catalogue. Open Data Catalogue]-https://open.toronto.ca/catalogue/
-[Toronto Police Service Open Data Portal. (n.d.)]-https://data.torontopolice.on.ca/
+* Rey, S. J., & Anselin, L. (2021). Point pattern analysis. Geographic Data Science, Chapter 8 -https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html
+* Darribas, I. (n.d.). Geovisualization with PySAL. Geographic Data Science, Lab 8. -https://darribas.org/gds_course/content/bH/lab_H.html
+* PySAL Developers. (n.d.). Moran’s I visualization. PySAL -https://pysal.org/notebooks/viz/splot/esda_morans_viz.html
+* City of Toronto. (2016). Neighbourhood profiles. Open Data Catalogue -https://open.toronto.ca/dataset/neighbourhood-profiles/
+* ArcGIS Hub. (n.d.). Toronto neighbourhoods. ArcGIS Online -https://edu.hub.arcgis.com/datasets/edu::toronto-neighbourhoods-1/explore?location=43.717982%2C-79.377254%2C11.64
+* City of Toronto. (n.d.). Catalogue. Open Data Catalogue -https://open.toronto.ca/catalogue/
+* Toronto Police Service Open Data Portal. (n.d.) -https://data.torontopolice.on.ca/
 
